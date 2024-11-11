@@ -1,3 +1,6 @@
+
+[Link to my Blogpost](https://pumoxi.com/2024/11/10/building-a-hangman-game-with-python/)
+
 # Hangman Game - Fruits and Vegetables Edition
 
 This is a simple Hangman-style game built in Python. The game randomly selects a word from a list of fruits and vegetables, and players try to guess the word one letter at a time. You have 7 lives—each incorrect guess loses one life, and a part of the hangman is drawn. If you run out of lives before guessing the word, you lose the game!
